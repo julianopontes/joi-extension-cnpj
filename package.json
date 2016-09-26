@@ -1,0 +1,29 @@
+{
+  "name": "joi-extension-cnpj",
+  "version": "1.0.0",
+  "description": "joi extension for validation of brazilian CNPJ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianopontes/joi-extension-cnpj.git"
+  },
+  "keywords": [
+    "joi",
+    "extension",
+    "cnpj",
+    "brazilian",
+    "validation"
+  ],
+  "author": "Juliano Pontes <juliano.pontes@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianopontes/joi-extension-cnpj/issues"
+  },
+  "homepage": "https://github.com/julianopontes/joi-extension-cnpj#readme",
+  "dependencies": {
+    "joi": "9.0.4"
+  }
+}
